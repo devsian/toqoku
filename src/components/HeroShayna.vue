@@ -3,7 +3,7 @@
     <section class="hero-section">
         <carousel class="hero-items" :items="1" :nav="false">
 
-            <div class="single-hero-items set-bg" style="background-image: url('img/hero-1.jpg')">
+            <div class="single-hero-items set-bg" style="background-image: url('img/wedding-1.jpg')">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-5">
@@ -18,7 +18,7 @@
                 </div>
             </div>
 
-            <div class="single-hero-items set-bg" style="background-image: url('img/hero-2.jpg')">
+            <div class="single-hero-items set-bg" style="background-image: url('img/wedding-2.jpg')">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-5">
@@ -33,7 +33,7 @@
                 </div>
             </div>
 
-            <div class="single-hero-items set-bg" style="background-image: url('img/hero-3.jpg')">
+            <div class="single-hero-items set-bg" style="background-image: url('img/wedding-3.jpg')">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-5">
