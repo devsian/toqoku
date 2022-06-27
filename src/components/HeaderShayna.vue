@@ -8,7 +8,8 @@
                         <i class=" fa fa-envelope"></i> namungpictures@gmail.com
                     </div>
                     <div class="phone-service">
-                        <i class=" fa fa-phone"></i> +628 22081996
+                        <i class=" fa fa-whatsapp"></i>
+                        <a class="number" href="wa.me/+6281393888145">0813-9388-8145</a>
                     </div>
                 </div>
             </div>
